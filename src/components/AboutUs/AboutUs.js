@@ -44,8 +44,8 @@ class AboutUs extends Component {
               <Col lg={7}>
                 <div className="features-img features-right text-end">
                   <img
-                    src="assets/images/test.JPG"
-                    alt="macbook"
+                    src="https://ik.imagekit.io/naufal/assets_landing_page_pks_ybm_pln/aboutus_features_LXARAIV5r.jpg?updatedAt=1695807197790"
+                    alt="kegiatan santri"
                     className="img-fluid"
                   />
                 </div>

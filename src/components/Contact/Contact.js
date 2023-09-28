@@ -85,7 +85,9 @@ class Features extends Component {
                     </div>
                     <div class="row">
                       <div class="col-lg-12 text-end">
-                        <input type="submit" id="submit" name="send" class="submitBnt btn btn-primary"
+                        <input type=".
+                        
+                        " id="submit" name="send" class="submitBnt btn btn-primary"
                           value="Send Message" />
                       </div>
                     </div>
